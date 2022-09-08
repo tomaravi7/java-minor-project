@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\tomar\\Downloads\\xmlbeans-2.6.0.jar",
+        "c:\\Users\\tomar\\Downloads\\poi-ooxml-schemas-3.17.jar",
+        "c:\\Users\\tomar\\Downloads\\poi-3.17.jar",
+        "c:\\Users\\tomar\\Downloads\\poi-ooxml-3.17.jar",
+        "c:\\Users\\tomar\\Downloads\\commons-collections4-4.1.jar"
+    ]
+}
